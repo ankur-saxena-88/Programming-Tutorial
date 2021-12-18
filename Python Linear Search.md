@@ -30,7 +30,7 @@ LinearSearch (list, key):
 <h3> 3. Python Linear Search Program </h3>
 
 ```    
-# Program start
+# Program startt
 
 def linearSearch (list1, n, key):
     # Searching list1 sequentially
