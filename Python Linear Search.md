@@ -19,7 +19,6 @@
 
 There is a list of n elements and key value to be searched. Below is the linear search algorithm:
 
-<code>
 ```
 LinearSearch (list, key):
     for each item in the list:
@@ -27,11 +26,9 @@ LinearSearch (list, key):
             return its index position
     return -1
 ```
-</code>
 
 <h3> 3. Python Linear Search Program </h3>
 
-<code>
 ```    
 # Program start
 
@@ -55,7 +52,6 @@ else:
 
 # Program end
 ```
-</code>
 
 <h4> Output: </h4>
 Element found at index:  2
