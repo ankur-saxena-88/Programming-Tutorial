@@ -20,16 +20,19 @@
 There is a list of n elements and key value to be searched. Below is the linear search algorithm:
 
 <code>
+```
 LinearSearch (list, key):
     for each item in the list:
         if item == value:
             return its index position
     return -1
+```
 </code>
 
 <h3> 3. Python Linear Search Program </h3>
 
 <code>
+```    
 # Program start
 
 def linearSearch (list1, n, key):
@@ -51,6 +54,7 @@ else:
     print ("Element found at index: ", result)
 
 # Program end
+```
 </code>
 
 <h4> Output: </h4>
